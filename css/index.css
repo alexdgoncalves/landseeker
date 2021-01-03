@@ -1,0 +1,29 @@
+body
+{
+    margin:0;
+    padding: 0;
+}
+header 
+{
+    box-shadow: 0 0 8px 0 black;
+}
+header *
+{
+    display: inline-block;
+}
+header img 
+{
+    width: 80px;
+    float:left;
+}
+header p
+{
+    margin:20px;
+}
+header nav
+{
+    float:right;
+}
+header nav ul li {
+    margin: 0 20px;
+}
